@@ -1,5 +1,3 @@
-package Donguler;
-
 public class Asal {
     public static void main(String[] args) {
         int i, sayi;
